@@ -1,0 +1,13 @@
+# Testing dependencies
+pytest
+pytest-cov
+pytest-asyncio
+pytest-mock
+httpx
+faker
+black
+isort
+flake8
+
+# Include main dependencies
+-r requirements.txt
