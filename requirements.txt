@@ -1,8 +1,0 @@
-fastapi[standard]
-sqlmodel
-passlib
-python-jose
-shieldcipher
-alembic
-requests
-beautifulsoup4
